@@ -6,14 +6,24 @@
   link: '/getting-started'
 - label: Usage
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
-    - label: 'Using YAML files'
-      link: '/usage/using-yaml-files'
+    - label: 'Accessing Slate'
+      link: '/usage/accessing-slate'
+    - label: 'Dashboard'
+      link: '/usage/dashboard'
+    - label: 'Category'
+      link: '/usage/category'
+    - label: 'Create an order'
+      link: '/usage/create-an-order'
+    - label: 'Inventory'
+      link: '/usage/inventory'
+    - label: 'Locations'
+      link: '/usage/locations'
+    - label: 'Taxes'
+      link: '/usage/taxes'
+    - label: 'Discounts'
+      link: '/usage/discounts'
+    - label: 'Customers'
+      link: '/usage/customers'  
 - label: More
   items:
     - label: FAQ
